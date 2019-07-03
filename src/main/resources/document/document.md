@@ -2,6 +2,7 @@
     host:port/spring-mongo/
     
 ### test api get user data
+
     /spring-mongo/test/data?username={key}
     
     example:
